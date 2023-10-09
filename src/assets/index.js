@@ -56,7 +56,7 @@ import catalysts from './projects/catalysts.png';
 import bus from './projects/bus.png';
 
 import anand from './personal/anand.png';
-import cv from './personal/cv.pdf'
+import cv from './personal/cv1.pdf'
 
 export {
   bwmap,
